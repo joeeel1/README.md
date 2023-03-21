@@ -14,7 +14,7 @@
 ```javascript
 const joel = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, PHP, Java],
+  code: [Javascript, HTML, CSS, PHP, Java],
   tools: [React, Vue, Node]
 }
 ```
