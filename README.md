@@ -4,7 +4,7 @@
 </br> 
 </em></p>
 
-[![Twitter: joeeel_1](https://img.shields.io/twitter/follow/joeeel_1?style=social)](https://twitter.com/joeeel_1)
+[![Twitter: kosydev](https://img.shields.io/twitter/follow/joeeel_1?style=social)](https://twitter.com/kosydev)
 [![Linkedin: joel meißner](https://img.shields.io/badge/-joelmeißner-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-meißner-667010269/)](https://www.linkedin.com/in/joel-meißner-667010269/)
 [![GitHub joeeel1](https://img.shields.io/github/followers/joeeel1?label=follow&style=social)](https://github.com/joeeel1)
 
